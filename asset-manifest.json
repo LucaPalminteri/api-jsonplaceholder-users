@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/api-jsonplaceholder-users/static/css/main.cfec779f.css",
+    "main.js": "/api-jsonplaceholder-users/static/js/main.0c9cb7ef.js",
+    "index.html": "/api-jsonplaceholder-users/index.html",
+    "main.cfec779f.css.map": "/api-jsonplaceholder-users/static/css/main.cfec779f.css.map",
+    "main.0c9cb7ef.js.map": "/api-jsonplaceholder-users/static/js/main.0c9cb7ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfec779f.css",
+    "static/js/main.0c9cb7ef.js"
+  ]
+}
